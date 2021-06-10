@@ -4,3 +4,7 @@ window.onload = function() {
     var hey = 'foo';
     console.log(foo);
 };
+
+jQuery(document).ready(function(){
+    alert('test');
+});
